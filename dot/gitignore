@@ -1,0 +1,9 @@
+.DS_Store
+.svn
+*~
+*.sw?
+*.tmproj
+log/*
+*.log
+tmp/
+
