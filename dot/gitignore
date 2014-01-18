@@ -2,6 +2,7 @@
 *.sw?
 *.tmproj
 *~
+.bundle
 .DS_Store
 .svn
 log/*
