@@ -1,0 +1,20 @@
+[user]
+  name = m5o
+  email = m5o@gmx.com
+  
+[alias]
+  ap = add --patch
+  up = pull
+  ci = commit
+  st = status
+  di = diff
+  dic = diff --cached
+  co = checkout
+  br = branch
+  sta = stash
+  sd = svn dcommit
+  sr = svn rebase
+  lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
+  rma = !git status | grep deleted | cut -d ' ' -f 5 | xargs git rm
+
+ 
