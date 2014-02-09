@@ -22,3 +22,14 @@
   excludesfile = ~/.gitignore
   pager = most
   # editor = mvim -f
+
+# [push]
+#   autosetuprebase = always
+#   default = tracking
+
+[merge]
+  tool = opendiff
+  summary = true
+
+[help]
+  autocorrect = 1
