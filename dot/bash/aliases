@@ -1,2 +1,5 @@
 alias ..='cd ..'
 alias ...='cd .. ; cd ..'
+
+# Find
+alias f='find . -iname'
