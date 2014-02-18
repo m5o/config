@@ -1,0 +1,8 @@
+# -g or --global install pkg 
+# into /usr/local/lib/node_modules/
+
+npm install -g grunt-cli
+npm install --global pageres
+npm install sassdown --save-dev
+npm install -g imageoptim-cli
+npm install grunt-imageoptim --save-dev
