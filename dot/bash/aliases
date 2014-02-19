@@ -1,5 +1,9 @@
 alias ..='cd ..'
 alias ...='cd .. ; cd ..'
 
-# Find
+# oneliner
+alias c='clear'
 alias f='find . -iname'
+alias g='grep'
+alias h='history'
+alias v='vim'
