@@ -7,3 +7,18 @@ alias f='find . -iname'
 alias g='grep'
 alias h='history'
 alias v='vim'
+
+# listing
+if [ `uname` = "Darwin" ] ; then
+  # the -G command in OS-X is for colors
+  export LS_OPTIONS='-G'
+else if [ `uname` = "Linux" ] ; then
+  # http://www.linux-sxs.org/housekeeping/lscolors.html
+  export LS_OPTIONS='--color=auto'
+  export LS_COLORS='di=1:fi=0:ln=31:pi=5:so=5:bd=5:cd=5:or=31:mi=0:ex=35:*.rb=90'	
+fi
+alias l='ls $LS_OPTIONS -lA'
+alias la='ls $LS_OPTIONS -a'
+alias ls='ls $LS_OPTIONS'
+alias ll='ls $LS_OPTIONS -lh'
+alias lla='ls $LS_OPTIONS -laFh'
