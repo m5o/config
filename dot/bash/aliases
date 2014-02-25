@@ -22,3 +22,8 @@ alias la='ls $LS_OPTIONS -a'
 alias ls='ls $LS_OPTIONS'
 alias ll='ls $LS_OPTIONS -lh'
 alias lla='ls $LS_OPTIONS -laFh'
+
+# bundler
+alias bu="bundle update"
+alias bi="bundle install"
+alias bo="bundle open"
