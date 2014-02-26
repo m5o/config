@@ -30,3 +30,12 @@ alias bo="bundle open"
 
 # Cleanup
 alias rmdsstore="find . -name '.DS_Store' | xargs rm"
+
+# Mac OS X
+# http://www.macworld.com/article/51830/2006/07/showallfinder.html
+if [ `uname` = "Darwin" ] ; then
+  alias finder_showAllFiles='defaults write com.apple.Finder AppleShowAllFiles YES;killall Finder'
+  alias finder_hideAllFiles='defaults write com.apple.Finder AppleShowAllFiles NO;killall Finder'
+  alias mac-sleep='/usr/bin/osascript -e "tell application \"System Events\" to sleep"'
+  alias mac-sleep-exit='$(mac-sleep) && exit'
+fi
