@@ -1,7 +1,3 @@
-alias ..='cd ..'
-alias ...='cd .. ; cd ..'
-cl() { cd $1; ls -la; }
-
 # oneliner
 alias c='clear'
 alias f='find . -iname'
@@ -23,6 +19,9 @@ alias la='ls $LS_OPTIONS -a'
 alias ls='ls $LS_OPTIONS'
 alias ll='ls $LS_OPTIONS -lh'
 alias lla='ls $LS_OPTIONS -laFh'
+alias ..='cd ..'
+alias ...='cd .. ; cd ..'
+cl() { cd $1; l; }
 
 # bundler
 alias bu="bundle update"
