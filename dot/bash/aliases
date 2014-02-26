@@ -1,5 +1,6 @@
 alias ..='cd ..'
 alias ...='cd .. ; cd ..'
+cl() { cd $1; ls -la; }
 
 # oneliner
 alias c='clear'
