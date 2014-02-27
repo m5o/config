@@ -1,0 +1,21 @@
+'editor':
+  'fontSize': 16
+  'showInvisibles': true
+'core':
+  'themes': [
+    'atom-light-ui'
+    'atom-light-syntax'
+  ]
+  'ignoredNames': [
+    '.git'
+    '.svn'
+    '.DS_Store'
+  ]
+'exception-reporting':
+  'userId': 'c50d5715-bd3c-6144-9fdb-d8421cd2422f'
+'release-notes':
+  'viewedVersion': '0.60.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '60e992dace5b5ef5e99a486846e32dcb37137397'
