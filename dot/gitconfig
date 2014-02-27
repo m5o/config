@@ -1,7 +1,7 @@
 [user]
   name = m5o
   email = m5o@gmx.com
-  
+
 [alias]
   ap = add --patch
   up = pull

@@ -12,7 +12,7 @@ if [ `uname` = "Darwin" ] ; then
 else if [ `uname` = "Linux" ] ; then
   # http://www.linux-sxs.org/housekeeping/lscolors.html
   export LS_OPTIONS='--color=auto'
-  export LS_COLORS='di=1:fi=0:ln=31:pi=5:so=5:bd=5:cd=5:or=31:mi=0:ex=35:*.rb=90'	
+  export LS_COLORS='di=1:fi=0:ln=31:pi=5:so=5:bd=5:cd=5:or=31:mi=0:ex=35:*.rb=90'
 fi
 alias l='ls $LS_OPTIONS -lA'
 alias la='ls $LS_OPTIONS -a'
