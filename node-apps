@@ -4,6 +4,7 @@
 npm install --global pageres
 npm install --global pageres
 npm install -g grunt-cli
+npm install -g imacss
 npm install -g imageoptim-cli
 npm install grunt-imageoptim --save-dev
 npm install grunt-smartrev --save-dev
