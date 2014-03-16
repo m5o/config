@@ -2,7 +2,6 @@
 # into /usr/local/lib/node_modules/
 
 npm install --global pageres
-npm install --global pageres
 npm install -g grunt-cli
 npm install -g imacss
 npm install -g imageoptim-cli
