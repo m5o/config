@@ -1,10 +1,10 @@
-# .check install process with homebrew cask
+# check install process with homebrew cask
 # https://github.com/phinze/homebrew-cask
 
 1Password
 Adium
 Alfred
-[Atom](curl -L https://www.atom.io/api/updates/download -A "Atom/0.1 CFNetwork/1.5" > Atom.zip)
+Atom
 Balsamiq Mockups
 Caffeine
 Dash
