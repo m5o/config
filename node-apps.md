@@ -1,5 +1,7 @@
-# -g or --global install pkg 
-# into /usr/local/lib/node_modules/
+# Grunt.js
+
+    -g or --global install pkg 
+    into /usr/local/lib/node_modules/
 
 * npm install --global grunt-cli
 * npm install --global imacss
