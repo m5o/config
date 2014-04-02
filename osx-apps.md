@@ -1,5 +1,5 @@
-# check install process with homebrew cask
-# https://github.com/phinze/homebrew-cask
+    check install process with homebrew cask
+    https://github.com/phinze/homebrew-cask
 
 1Password
 Adium
@@ -46,8 +46,8 @@ WebKit
 Xcode
 xScope
 
-# Dictionary
-https://github.com/priithaamer/rubydictionary
-http://priithaamer.com/blog/rails4-and-ruby2-dictionaries
-http://mac.tekl.de/deutsch/Blog/Blog.html
-http://lipflip.org/articles/dictcc-dictionary-plugin-deutsche-beschreibung
+## Dictionary
+* https://github.com/priithaamer/rubydictionary
+* http://priithaamer.com/blog/rails4-and-ruby2-dictionaries
+* http://mac.tekl.de/deutsch/Blog/Blog.html
+* http://lipflip.org/articles/dictcc-dictionary-plugin-deutsche-beschreibung
