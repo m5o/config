@@ -30,5 +30,3 @@
 --ignore-dir=coverage
 --ignore-dir=simplecov
 --ignore-file=is:tags
-
---all
