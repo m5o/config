@@ -1,8 +1,8 @@
     check install process with homebrew cask
     https://github.com/phinze/homebrew-cask
 
-1Password
-Adium
+* 1Password
+* Adium
 Alfred
 Atom
 Balsamiq Mockups
