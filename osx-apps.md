@@ -3,10 +3,10 @@
 
 * 1Password
 * Adium
-Alfred
-Atom
-Balsamiq Mockups
-Caffeine
+* Alfred
+* Atom
+* Balsamiq Mockups
+* Caffeine
 Dash
 Firefox
 GitHub
