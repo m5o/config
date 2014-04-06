@@ -1,7 +1,7 @@
-bash-completion
-htop
-links
-lynx
-node
-pwgen
-wget
+* bash-completion
+* htop
+* links
+* lynx
+* node
+* pwgen
+* wget
