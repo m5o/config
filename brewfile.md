@@ -1,3 +1,5 @@
+# homebrew essentials
+
 * bash-completion
 * htop
 * links
