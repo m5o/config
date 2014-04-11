@@ -13,6 +13,7 @@
 * Google Chrome Canary
 * Google Chrome
 * HandBrake
+* [Haroo Pad](http://pad.haroopress.com)
 * HTTP Client
 * ImageAlpha
 * ImageOptim
