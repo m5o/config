@@ -14,6 +14,7 @@
 * Google Chrome
 * HandBrake
 * [Haroo Pad](http://pad.haroopress.com)
+* homebrew
 * HTTP Client
 * ImageAlpha
 * ImageOptim
@@ -31,6 +32,7 @@
 * node-webkit
 * Paparazzi
 * Popcorn-App
+* rvm
 * Sequel Pro
 * Skitch
 * SSH Tunnel Manager
