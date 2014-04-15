@@ -7,3 +7,4 @@
 * node
 * pwgen
 * wget
+* youtube-dl
