@@ -6,6 +6,7 @@
 * links
 * lynx
 * node
+* rmtrash
 * pwgen
 * wget
 * youtube-dl
