@@ -6,9 +6,12 @@
 * Alfred
 * Atom
 * Balsamiq Mockups
+* [Bluetooth Switch](http://junecloud.com/software/mac/)
 * Caffeine
 * Dash
+* [Delivery Status](http://junecloud.com/software/mac/)
 * Firefox
+* [Firewall Switch](http://junecloud.com/software/mac/)
 * GitHub
 * Google Chrome Canary
 * Google Chrome
