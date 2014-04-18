@@ -8,6 +8,7 @@
 * Balsamiq Mockups
 * [Bluetooth Switch](http://junecloud.com/software/mac/)
 * Caffeine
+* [coconutBattery](http://www.coconut-flavour.com)
 * Dash
 * [Delivery Status](http://junecloud.com/software/mac/)
 * Firefox
