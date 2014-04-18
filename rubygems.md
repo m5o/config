@@ -1,2 +1,4 @@
 * knod
 * lolcat
+* juicer
+* smusher
