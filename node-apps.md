@@ -7,6 +7,7 @@
 * npm install --global grunt-cli
 * npm install --global imacss
 * npm install --global imageoptim-cli
+* npm install --global localtunnel
 * npm install --global pageres
 * npm install --global peerflix
 * npm install grunt-imageoptim --save-dev
