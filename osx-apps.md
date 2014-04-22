@@ -29,8 +29,10 @@
 * iTerm
 * JPEGmini Lite
 * Kaleidoscope
+* KeyCastr
 * LICEcap
 * Little Snitch
+* LiveReload
 * Mactracker
 * MacVim
 * Moom
@@ -42,6 +44,8 @@
 * Popcorn-App
 * rvm
 * Sequel Pro
+* ShrinkIt
+* Sim Daltonism
 * Skitch
 * SSH Tunnel Manager
 * Stainless
