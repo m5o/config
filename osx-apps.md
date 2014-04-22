@@ -1,6 +1,7 @@
     check install process with homebrew cask
     https://github.com/phinze/homebrew-cask
 
+* 0xED
 * 1Password
 * Adium
 * Alfred
@@ -8,12 +9,14 @@
 * Balsamiq Mockups
 * [Bluetooth Switch](http://junecloud.com/software/mac/)
 * Caffeine
+* Colors
 * [coconutBattery](http://www.coconut-flavour.com)
 * Dash
 * [Delivery Status](http://junecloud.com/software/mac/)
 * Firefox
 * [Firewall Switch](http://junecloud.com/software/mac/)
 * GitHub
+* GitX
 * Google Chrome Canary
 * Google Chrome
 * HandBrake
