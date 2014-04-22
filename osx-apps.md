@@ -46,6 +46,7 @@
 * Sequel Pro
 * ShrinkIt
 * Sim Daltonism
+* SiteSucker
 * Skitch
 * SSH Tunnel Manager
 * Stainless
@@ -53,6 +54,7 @@
 * SVGgo
 * TextMate
 * Transmission
+* Tower
 * Transmit
 * Tunnelblick
 * Validator S.A.C
