@@ -21,6 +21,7 @@
 * Google Chrome
 * HandBrake
 * [Haroo Pad](http://pad.haroopress.com)
+* [Hex Color Picker](http://wafflesoftware.net/hexpicker/)
 * homebrew
 * HTTP Client
 * ImageAlpha
@@ -35,7 +36,6 @@
 * LiveReload
 * Mactracker
 * MacVim
-* Hex Color Picker
 * Moom
 * Mou
 * NFOViewer
