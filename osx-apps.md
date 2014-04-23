@@ -48,6 +48,7 @@
 * ShrinkIt
 * Sim Daltonism
 * SiteSucker
+* [Skala Color](http://bjango.com/mac/skalacolor/)
 * Skitch
 * SSH Tunnel Manager
 * Stainless
