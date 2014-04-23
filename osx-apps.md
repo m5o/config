@@ -35,6 +35,7 @@
 * LiveReload
 * Mactracker
 * MacVim
+* Hex Color Picker
 * Moom
 * Mou
 * NFOViewer
