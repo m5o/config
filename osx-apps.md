@@ -13,6 +13,7 @@
 * [coconutBattery](http://www.coconut-flavour.com)
 * Dash
 * [Delivery Status](http://junecloud.com/software/mac/)
+* [Developer Color Picker](http://download.panic.com/picker/)
 * Firefox
 * [Firewall Switch](http://junecloud.com/software/mac/)
 * GitHub
