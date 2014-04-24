@@ -58,7 +58,7 @@
 * TextMate
 * Transmission
 * Tower
-* Transmit
+* [Transmit](http://panic.com)
 * Tunnelblick
 * Validator S.A.C
 * VLC
