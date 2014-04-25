@@ -62,7 +62,7 @@
 * Tunnelblick
 * Validator S.A.C
 * VLC
-* WebKit
+* [WebKit](http://webkit.org)
 * Xcode
 * xScope
 
