@@ -6,7 +6,7 @@
 * Adium
 * Alfred
 * Atom
-* Balsamiq Mockups
+* [Balsamiq Mockups](http://balsamiq.com/download/)
 * [Bluetooth Switch](http://junecloud.com/software/mac/)
 * Caffeine
 * Colors
