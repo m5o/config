@@ -14,7 +14,7 @@
 * Dash
 * [Delivery Status](http://junecloud.com/software/mac/)
 * [Developer Color Picker](http://download.panic.com/picker/)
-* Firefox
+* [Firefox](http://getfirefox.com)
 * [Firewall Switch](http://junecloud.com/software/mac/)
 * GitHub
 * GitX
