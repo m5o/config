@@ -55,7 +55,7 @@
 * Stainless
 * Sublime Text
 * SVGgo
-* TextMate
+* [TextMate](http://macromates.com)
 * Transmission
 * Tower
 * [Transmit](http://panic.com)
