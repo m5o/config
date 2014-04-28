@@ -42,7 +42,7 @@
 * NFOViewer
 * [ngrok](https://ngrok.com)
 * node-webkit
-* Paparazzi
+* [Paparazzi](http://derailer.org/paparazzi/)
 * Popcorn-App
 * rvm
 * Sequel Pro
