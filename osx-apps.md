@@ -32,7 +32,7 @@
 * JPEGmini Lite
 * Kaleidoscope
 * KeyCastr
-* LICEcap
+* [LICEcap](http://www.cockos.com/licecap/)
 * Little Snitch
 * LiveReload
 * Mactracker
