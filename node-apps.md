@@ -10,6 +10,7 @@
 * npm install --global localtunnel
 * npm install --global pageres
 * npm install --global peerflix
+* npm install --global torrent-mount
 * npm install grunt-imageoptim --save-dev
 * npm install grunt-markdown-pdf --save-dev
 * npm install grunt-smartrev --save-dev
