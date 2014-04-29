@@ -1,7 +1,7 @@
     check install process with homebrew cask
     https://github.com/phinze/homebrew-cask
 
-* 0xED
+* [0xED](http://www.suavetech.com/0xed/0xed.html)
 * 1Password
 * Adium
 * Alfred
