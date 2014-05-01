@@ -3,6 +3,7 @@
 
 * [0xED](http://www.suavetech.com/0xed/0xed.html)
 * 1Password
+* Acorn
 * Adium
 * Alfred
 * Atom
@@ -43,6 +44,7 @@
 * [ngrok](https://ngrok.com)
 * node-webkit
 * [Paparazzi](http://derailer.org/paparazzi/)
+* Pixelmator
 * Popcorn-App
 * rvm
 * Sequel Pro
