@@ -80,4 +80,5 @@
 
 ## Quicklook Plugins
 
+* [Animated GIF QuickLook plugin](http://animgifqlgen.sourceforge.net)
 * [Markdown](http://inkmarkapp.com/markdown-quick-look-plugin-mac-os-x/)
