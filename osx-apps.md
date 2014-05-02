@@ -83,3 +83,4 @@
 * [Animated GIF QuickLook plugin](http://animgifqlgen.sourceforge.net)
 * [BetterZip](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
 * [Markdown](http://inkmarkapp.com/markdown-quick-look-plugin-mac-os-x/)
+* [Plain Text Files - QuicklookStephen](https://github.com/whomwah/qlstephen)
