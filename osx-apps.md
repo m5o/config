@@ -80,4 +80,4 @@
 
 ## Quicklook Plugins
 
-* tbd
+* [Markdown](http://inkmarkapp.com/markdown-quick-look-plugin-mac-os-x/)
