@@ -8,6 +8,7 @@
 * Alfred
 * Atom
 * [Balsamiq Mockups](http://balsamiq.com/download/)
+* Blackmagic Disk Speed Test
 * [Bluetooth Switch](http://junecloud.com/software/mac/)
 * Caffeine
 * Colors
