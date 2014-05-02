@@ -62,6 +62,7 @@
 * Transmission
 * Tower
 * [Transmit](http://panic.com)
+* [TunnelBear](https://www.tunnelbear.com/)
 * Tunnelblick
 * Validator S.A.C
 * VLC
