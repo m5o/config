@@ -11,7 +11,7 @@
 * Blackmagic Disk Speed Test
 * [Bluetooth Switch](http://junecloud.com/software/mac/)
 * Caffeine
-* Colors
+* [Colors](http://mattpatenaude.com)
 * [coconutBattery](http://www.coconut-flavour.com)
 * Dash
 * [Delivery Status](http://junecloud.com/software/mac/)
