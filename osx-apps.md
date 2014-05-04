@@ -6,7 +6,7 @@
 * Acorn
 * Adium
 * Alfred
-* Atom
+* [Atom](https://atom.io)
 * [Balsamiq Mockups](http://balsamiq.com/download/)
 * Blackmagic Disk Speed Test
 * [Bluetooth Switch](http://junecloud.com/software/mac/)
