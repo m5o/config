@@ -5,7 +5,7 @@
 * 1Password
 * Acorn
 * Adium
-* Alfred
+* [Alfred](http://www.alfredapp.com/)
 * [Atom](https://atom.io)
 * [Balsamiq Mockups](http://balsamiq.com/download/)
 * Blackmagic Disk Speed Test
