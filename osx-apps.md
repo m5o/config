@@ -2,7 +2,7 @@
     https://github.com/phinze/homebrew-cask
 
 * [0xED](http://www.suavetech.com/0xed/0xed.html)
-* 1Password
+* [1Password](https://agilebits.com/onepassword/mac)
 * [Acorn](http://www.flyingmeat.com/acorn/)
 * [Adium](https://adium.im/)
 * [Alfred](http://www.alfredapp.com/)
