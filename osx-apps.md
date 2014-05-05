@@ -3,7 +3,7 @@
 
 * [0xED](http://www.suavetech.com/0xed/0xed.html)
 * 1Password
-* Acorn
+* [Acorn](http://www.flyingmeat.com/acorn/)
 * [Adium](https://adium.im/)
 * [Alfred](http://www.alfredapp.com/)
 * [Atom](https://atom.io)
