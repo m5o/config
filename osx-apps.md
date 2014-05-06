@@ -10,7 +10,7 @@
 * [Balsamiq Mockups](http://balsamiq.com/download/)
 * Blackmagic Disk Speed Test
 * [Bluetooth Switch](http://junecloud.com/software/mac/)
-* Caffeine
+* [Caffeine](http://lightheadsw.com/caffeine/)
 * [Colors](http://mattpatenaude.com)
 * [coconutBattery](http://www.coconut-flavour.com)
 * [Dash](http://kapeli.com/dash)
