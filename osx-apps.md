@@ -13,7 +13,7 @@
 * Caffeine
 * [Colors](http://mattpatenaude.com)
 * [coconutBattery](http://www.coconut-flavour.com)
-* Dash
+* [Dash](http://kapeli.com/dash)
 * [Delivery Status](http://junecloud.com/software/mac/)
 * [Developer Color Picker](http://download.panic.com/picker/)
 * [Firefox](http://getfirefox.com)
