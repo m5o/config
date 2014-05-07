@@ -18,7 +18,7 @@
 * [Developer Color Picker](http://download.panic.com/picker/)
 * [Firefox](http://getfirefox.com)
 * [Firewall Switch](http://junecloud.com/software/mac/)
-* GitHub
+* [GitHub](https://mac.github.com)
 * GitX
 * Google Chrome Canary
 * Google Chrome
