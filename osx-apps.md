@@ -19,7 +19,7 @@
 * [Firefox](http://getfirefox.com)
 * [Firewall Switch](http://junecloud.com/software/mac/)
 * [GitHub](https://mac.github.com)
-* GitX
+* [GitX (L)](http://gitx.laullon.com/) / [GitX-dev](http://rowanj.github.io/gitx/) / [GitX](http://gitx.frim.nl/)
 * Google Chrome Canary
 * Google Chrome
 * HandBrake
