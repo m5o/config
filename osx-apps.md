@@ -20,8 +20,8 @@
 * [Firewall Switch](http://junecloud.com/software/mac/)
 * [GitHub](https://mac.github.com)
 * [GitX (L)](http://gitx.laullon.com/) / [GitX-dev](http://rowanj.github.io/gitx/) / [GitX](http://gitx.frim.nl/)
-* Google Chrome Canary
-* Google Chrome
+* [Google Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html)
+* [Google Chrome](https://www.google.com/chrome/browser)
 * HandBrake
 * [Haroo Pad](http://pad.haroopress.com)
 * [Hex Color Picker](http://wafflesoftware.net/hexpicker/)
