@@ -18,6 +18,7 @@
 * me.zhaowu.top
 * menusearch.neorej.com
 * net.1000ch.emoji
+* [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow)
 * net.eplekake.openinchrome
 * repairlaunchservices.matiaskorhonen.fi
 * stackoverflow.7h2o.com
