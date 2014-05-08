@@ -27,8 +27,8 @@
 * [Hex Color Picker](http://wafflesoftware.net/hexpicker/)
 * [homebrew](http://brew.sh/)
 * [HTTP Client](http://ditchnet.org/httpclient/)
-* ImageAlpha
-* ImageOptim
+* [ImageAlpha](http://pngmini.com/)
+* [ImageOptim](http://imageoptim.com/)
 * iStat Menus
 * iTerm
 * JPEGmini Lite
