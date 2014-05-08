@@ -26,7 +26,7 @@
 * [Haroo Pad](http://pad.haroopress.com)
 * [Hex Color Picker](http://wafflesoftware.net/hexpicker/)
 * [homebrew](http://brew.sh/)
-* HTTP Client
+* [HTTP Client](http://ditchnet.org/httpclient/)
 * ImageAlpha
 * ImageOptim
 * iStat Menus
