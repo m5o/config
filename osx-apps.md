@@ -29,7 +29,7 @@
 * [HTTP Client](http://ditchnet.org/httpclient/)
 * [ImageAlpha](http://pngmini.com/)
 * [ImageOptim](http://imageoptim.com/)
-* iStat Menus
+* [iStat Menus](http://bjango.com/mac/istatmenus/)
 * iTerm
 * JPEGmini Lite
 * Kaleidoscope
