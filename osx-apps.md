@@ -25,7 +25,7 @@
 * [HandBrake](http://handbrake.fr/)
 * [Haroo Pad](http://pad.haroopress.com)
 * [Hex Color Picker](http://wafflesoftware.net/hexpicker/)
-* homebrew
+* [homebrew](http://brew.sh/)
 * HTTP Client
 * ImageAlpha
 * ImageOptim
