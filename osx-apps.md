@@ -30,7 +30,7 @@
 * [ImageAlpha](http://pngmini.com/)
 * [ImageOptim](http://imageoptim.com/)
 * [iStat Menus](http://bjango.com/mac/istatmenus/)
-* iTerm
+* [iTerm](http://www.iterm2.com)
 * JPEGmini Lite
 * Kaleidoscope
 * KeyCastr
