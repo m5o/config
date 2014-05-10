@@ -32,7 +32,7 @@
 * [iStat Menus](http://bjango.com/mac/istatmenus/)
 * [iTerm](http://www.iterm2.com)
 * JPEGmini Lite
-* Kaleidoscope
+* [Kaleidoscope](http://www.kaleidoscopeapp.com)
 * KeyCastr
 * [LICEcap](http://www.cockos.com/licecap/)
 * Little Snitch
