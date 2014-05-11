@@ -51,7 +51,7 @@
 * Sequel Pro
 * ShrinkIt
 * Sim Daltonism
-* SiteSucker
+* [SiteSucker](http://www.sitesucker.us/mac/mac.html)
 * [Skala Color](http://bjango.com/mac/skalacolor/)
 * Skitch
 * SSH Tunnel Manager
