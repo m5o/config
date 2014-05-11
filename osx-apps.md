@@ -40,7 +40,7 @@
 * Mactracker
 * MacVim
 * Moom
-* Mou
+* [Mou](http://mouapp.com)
 * NFOViewer
 * [ngrok](https://ngrok.com)
 * node-webkit
