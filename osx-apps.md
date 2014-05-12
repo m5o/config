@@ -37,7 +37,7 @@
 * [LICEcap](http://www.cockos.com/licecap/)
 * [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html)
 * [LiveReload](http://livereload.com/)
-* Mactracker
+* [Mactracker](http://mactracker.ca/)
 * MacVim
 * Moom
 * [Mou](http://mouapp.com)
