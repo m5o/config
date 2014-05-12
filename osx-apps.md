@@ -36,7 +36,7 @@
 * [KeyCastr](https://github.com/sdeken/keycastr)
 * [LICEcap](http://www.cockos.com/licecap/)
 * [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html)
-* LiveReload
+* [LiveReload](http://livereload.com/)
 * Mactracker
 * MacVim
 * Moom
