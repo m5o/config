@@ -33,7 +33,7 @@
 * [iTerm](http://www.iterm2.com)
 * [JPEGmini Lite](http://www.jpegmini.com/)
 * [Kaleidoscope](http://www.kaleidoscopeapp.com)
-* KeyCastr
+* [KeyCastr](https://github.com/sdeken/keycastr)
 * [LICEcap](http://www.cockos.com/licecap/)
 * Little Snitch
 * LiveReload
