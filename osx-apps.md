@@ -35,7 +35,7 @@
 * [Kaleidoscope](http://www.kaleidoscopeapp.com)
 * [KeyCastr](https://github.com/sdeken/keycastr)
 * [LICEcap](http://www.cockos.com/licecap/)
-* Little Snitch
+* [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html)
 * LiveReload
 * Mactracker
 * MacVim
