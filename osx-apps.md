@@ -39,7 +39,7 @@
 * [LiveReload](http://livereload.com/)
 * [Mactracker](http://mactracker.ca/)
 * MacVim
-* Moom
+* [Moom](http://manytricks.com/moom/)
 * [Mou](http://mouapp.com)
 * NFOViewer
 * [ngrok](https://ngrok.com)
