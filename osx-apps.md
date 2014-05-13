@@ -43,7 +43,7 @@
 * [Mou](http://mouapp.com)
 * [NFOViewer](http://blockart.sourceforge.net/)
 * [ngrok](https://ngrok.com)
-* node-webkit
+* [node-webkit](https://github.com/rogerwang/node-webkit)
 * [Paparazzi](http://derailer.org/paparazzi/)
 * Pixelmator
 * Popcorn-App
