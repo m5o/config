@@ -38,7 +38,7 @@
 * [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html)
 * [LiveReload](http://livereload.com/)
 * [Mactracker](http://mactracker.ca/)
-* MacVim
+* [MacVim](https://code.google.com/p/macvim/)
 * [Moom](http://manytricks.com/moom/)
 * [Mou](http://mouapp.com)
 * NFOViewer
