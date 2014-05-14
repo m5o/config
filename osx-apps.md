@@ -46,7 +46,7 @@
 * [node-webkit](https://github.com/rogerwang/node-webkit)
 * [Paparazzi](http://derailer.org/paparazzi/)
 * [Pixelmator](http://www.pixelmator.com/)
-* Popcorn-App
+* [Popcorn-App](http://get-popcorn.com/)
 * rvm
 * Sequel Pro
 * ShrinkIt
