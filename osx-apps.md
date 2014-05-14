@@ -45,7 +45,7 @@
 * [ngrok](https://ngrok.com)
 * [node-webkit](https://github.com/rogerwang/node-webkit)
 * [Paparazzi](http://derailer.org/paparazzi/)
-* Pixelmator
+* [Pixelmator](http://www.pixelmator.com/)
 * Popcorn-App
 * rvm
 * Sequel Pro
