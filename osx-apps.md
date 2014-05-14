@@ -47,7 +47,7 @@
 * [Paparazzi](http://derailer.org/paparazzi/)
 * [Pixelmator](http://www.pixelmator.com/)
 * [Popcorn-App](http://get-popcorn.com/)
-* rvm
+* [rvm](https://rvm.io/)
 * Sequel Pro
 * ShrinkIt
 * Sim Daltonism
