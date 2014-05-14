@@ -48,7 +48,7 @@
 * [Pixelmator](http://www.pixelmator.com/)
 * [Popcorn-App](http://get-popcorn.com/)
 * [rvm](https://rvm.io/)
-* Sequel Pro
+* [Sequel Pro](http://www.sequelpro.com/)
 * ShrinkIt
 * Sim Daltonism
 * [SiteSucker](http://www.sitesucker.us/mac/mac.html)
