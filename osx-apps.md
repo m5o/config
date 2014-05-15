@@ -49,7 +49,7 @@
 * [Popcorn-App](http://get-popcorn.com/)
 * [rvm](https://rvm.io/)
 * [Sequel Pro](http://www.sequelpro.com/)
-* ShrinkIt
+* [ShrinkIt](http://www.panic.com/blog/shrinkit-1-0/)
 * Sim Daltonism
 * [SiteSucker](http://www.sitesucker.us/mac/mac.html)
 * [Skala Color](http://bjango.com/mac/skalacolor/)
