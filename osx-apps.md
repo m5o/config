@@ -50,7 +50,7 @@
 * [rvm](https://rvm.io/)
 * [Sequel Pro](http://www.sequelpro.com/)
 * [ShrinkIt](http://www.panic.com/blog/shrinkit-1-0/)
-* Sim Daltonism
+* [Sim Daltonism](http://michelf.ca/projects/sim-daltonism/)
 * [SiteSucker](http://www.sitesucker.us/mac/mac.html)
 * [Skala Color](http://bjango.com/mac/skalacolor/)
 * Skitch
