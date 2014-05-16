@@ -55,7 +55,7 @@
 * [Skala Color](http://bjango.com/mac/skalacolor/)
 * [Skitch](http://evernote.com/skitch/) or [Monosnap](http://monosnap.com/)
 * [SSH Tunnel Manager](http://projects.tynsoe.org/en/stm/)
-* Stainless
+* [Stainless](http://www.stainlessapp.com/)
 * Sublime Text
 * SVGgo
 * [TextMate](http://macromates.com)
