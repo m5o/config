@@ -53,8 +53,8 @@
 * [Sim Daltonism](http://michelf.ca/projects/sim-daltonism/)
 * [SiteSucker](http://www.sitesucker.us/mac/mac.html)
 * [Skala Color](http://bjango.com/mac/skalacolor/)
-* [Skitch](http://evernote.com/skitch/) || [Monosnap](http://monosnap.com/)
-* SSH Tunnel Manager
+* [Skitch](http://evernote.com/skitch/) or [Monosnap](http://monosnap.com/)
+* [SSH Tunnel Manager](http://projects.tynsoe.org/en/stm/)
 * Stainless
 * Sublime Text
 * SVGgo
