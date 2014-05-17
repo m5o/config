@@ -56,7 +56,7 @@
 * [Skitch](http://evernote.com/skitch/) or [Monosnap](http://monosnap.com/)
 * [SSH Tunnel Manager](http://projects.tynsoe.org/en/stm/)
 * [Stainless](http://www.stainlessapp.com/)
-* Sublime Text
+* [Sublime Text](http://www.sublimetext.com)
 * SVGgo
 * [TextMate](http://macromates.com)
 * Transmission
