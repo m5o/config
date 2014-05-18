@@ -57,7 +57,7 @@
 * [SSH Tunnel Manager](http://projects.tynsoe.org/en/stm/)
 * [Stainless](http://www.stainlessapp.com/)
 * [Sublime Text](http://www.sublimetext.com)
-* SVGgo
+* [svgo](https://github.com/svg/svgo)
 * [TextMate](http://macromates.com)
 * Transmission
 * Tower
