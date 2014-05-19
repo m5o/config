@@ -59,7 +59,7 @@
 * [Sublime Text](http://www.sublimetext.com)
 * [svgo](https://github.com/svg/svgo)
 * [TextMate](http://macromates.com)
-* Transmission
+* [Transmission](http://www.transmissionbt.com/)
 * Tower
 * [Transmit](http://panic.com)
 * [TunnelBear](https://www.tunnelbear.com/)
