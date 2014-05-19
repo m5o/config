@@ -28,6 +28,7 @@
 * [homebrew](http://brew.sh/)
 * [HTTP Client](http://ditchnet.org/httpclient/)
 * [ImageAlpha](http://pngmini.com/)
+* [Imagemin](https://github.com/kevva/imagemin-app)
 * [ImageOptim](http://imageoptim.com/)
 * [iStat Menus](http://bjango.com/mac/istatmenus/)
 * [iTerm](http://www.iterm2.com)
