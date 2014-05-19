@@ -18,6 +18,7 @@
 * [Developer Color Picker](http://download.panic.com/picker/)
 * [Firefox](http://getfirefox.com)
 * [Firewall Switch](http://junecloud.com/software/mac/)
+* [GIF Brewery](http://www.helloresolven.com/betas/gifbrewery/)
 * [GitHub](https://mac.github.com)
 * [GitX (L)](http://gitx.laullon.com/) / [GitX-dev](http://rowanj.github.io/gitx/) / [GitX](http://gitx.frim.nl/)
 * [Google Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html)
