@@ -62,7 +62,7 @@
 * [svgo](https://github.com/svg/svgo)
 * [TextMate](http://macromates.com)
 * [Transmission](http://www.transmissionbt.com/)
-* Tower
+* [Tower](http://www.git-tower.com/)
 * [Transmit](http://panic.com)
 * [TunnelBear](https://www.tunnelbear.com/)
 * Tunnelblick
