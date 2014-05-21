@@ -65,7 +65,7 @@
 * [Tower](http://www.git-tower.com/)
 * [Transmit](http://panic.com)
 * [TunnelBear](https://www.tunnelbear.com/)
-* Tunnelblick
+* [Tunnelblick](https://code.google.com/p/tunnelblick/)
 * Validator S.A.C
 * VLC
 * [WebKit](http://webkit.org)
