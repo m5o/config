@@ -66,7 +66,7 @@
 * [Transmit](http://panic.com)
 * [TunnelBear](https://www.tunnelbear.com/)
 * [Tunnelblick](https://code.google.com/p/tunnelblick/)
-* Validator S.A.C
+* [Validator S.A.C](http://habilis.net/validator-sac/)
 * VLC
 * [WebKit](http://webkit.org)
 * Xcode
