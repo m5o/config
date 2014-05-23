@@ -67,7 +67,7 @@
 * [TunnelBear](https://www.tunnelbear.com/)
 * [Tunnelblick](https://code.google.com/p/tunnelblick/)
 * [Validator S.A.C](http://habilis.net/validator-sac/)
-* VLC
+* [VLC](http://www.videolan.org/)
 * [WebKit](http://webkit.org)
 * Xcode
 * xScope
