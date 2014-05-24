@@ -69,7 +69,7 @@
 * [Validator S.A.C](http://habilis.net/validator-sac/)
 * [VLC](http://www.videolan.org/)
 * [WebKit](http://webkit.org)
-* Xcode
+* [Xcode](https://developer.apple.com/xcode/)
 * xScope
 
 
