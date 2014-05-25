@@ -70,7 +70,7 @@
 * [VLC](http://www.videolan.org/)
 * [WebKit](http://webkit.org)
 * [Xcode](https://developer.apple.com/xcode/)
-* xScope
+* [xScope](http://xscopeapp.com)
 
 
 ## Dictionary
