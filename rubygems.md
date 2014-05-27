@@ -1,5 +1,5 @@
 * [juicer](http://rubygems.org/gems/juicer)
-* knod
+* [knod](http://rubygems.org/gems/knod)
 * lolcat
 * rails
 * rench
