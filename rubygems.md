@@ -3,4 +3,4 @@
 * [lolcat](http://rubygems.org/gems/lolcat)
 * [rails](http://rubygems.org/gems/rails)
 * [rench](http://rubygems.org/gems/rench)
-* [smusher](http://rubygems.org/gems/smusher]
+* [smusher](http://rubygems.org/gems/smusher)
