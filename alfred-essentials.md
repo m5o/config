@@ -2,6 +2,8 @@
 
 ## Plugins & Workflows
 
+Search on [AlfredWorkflow](http://www.alfredworkflow.com)
+
 * BluetoothToggle@Kam
 * Caffeine
 * carlosnz.timezones
