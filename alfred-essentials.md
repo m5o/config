@@ -22,4 +22,4 @@
 * net.eplekake.openinchrome
 * repairlaunchservices.matiaskorhonen.fi
 * stackoverflow.7h2o.com
-* tylereich.colors
+* [tylereich.colors](http://www.alfredforum.com/topic/805-colors—convert-color-formats-access-the-os-x-color-panel/)
