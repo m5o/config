@@ -5,7 +5,7 @@
 Search on [AlfredWorkflow](http://www.alfredworkflow.com)
 
 * BluetoothToggle@Kam
-* Caffeine
+* [Caffeine](http://www.alfredforum.com/topic/1631-caffeine-and-caffeinate-workflows-updated/)
 * carlosnz.timezones
 * com.alfred.tunnelblick.bundle
 * com.farrell.encode-decode.alfredworkflow
