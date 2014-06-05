@@ -2,9 +2,10 @@
 
 ## Plugins & Workflows
 
-Search on [AlfredWorkflow](http://www.alfredworkflow.com)
 * with [Workflow Searcher](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Workflow-Searcher.alfredworkflow)
 
+
+* Search on [AlfredWorkflow](http://www.alfredworkflow.com)
 * BluetoothToggle@Kam
 * [Caffeine](http://www.alfredforum.com/topic/1631-caffeine-and-caffeinate-workflows-updated/)
 * carlosnz.timezones
