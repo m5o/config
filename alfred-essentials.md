@@ -2,7 +2,7 @@
 
 ## Plugins & Workflows
 
-* with [Workflow Searcher](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Workflow-Searcher.alfredworkflow)
+* with [Workflow-Searcher.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Workflow-Searcher.alfredworkflow)
 
 
 * Search on [AlfredWorkflow](http://www.alfredworkflow.com)
