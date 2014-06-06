@@ -6,7 +6,8 @@
 
 
 ## Workflow Archive at [AlfredWorkflow.com](http://www.alfredworkflow.com)
-* BluetoothToggle@Kam
+
+* [BT & Wifi Toggle](http://www.alfredforum.com/topic/341-bluetooth-and-wifi-toggle/)
 * [Caffeine](http://www.alfredforum.com/topic/1631-caffeine-and-caffeinate-workflows-updated/)
 * carlosnz.timezones
 * com.alfred.tunnelblick.bundle
