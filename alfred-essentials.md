@@ -11,7 +11,7 @@
 * [Caffeine](http://www.alfredforum.com/topic/1631-caffeine-and-caffeinate-workflows-updated/)
 * [carlosnz.timezones](http://www.packal.org/workflow/timezones)
 * [com.alfred.tunnelblick.bundle](http://www.alfredforum.com/topic/2122-tunnelblick-openvpn-workflow/)
-* com.farrell.encode-decode.alfredworkflow
+* [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow)
 * com.kapeli.dash.workflow
 * com.workflowsearcher.hzlzh
 * de.gh01.alfred.github
