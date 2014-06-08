@@ -10,7 +10,7 @@
 * [BT & Wifi Toggle](http://www.alfredforum.com/topic/341-bluetooth-and-wifi-toggle/)
 * [Caffeine](http://www.alfredforum.com/topic/1631-caffeine-and-caffeinate-workflows-updated/)
 * [carlosnz.timezones](http://www.packal.org/workflow/timezones)
-* com.alfred.tunnelblick.bundle
+* [com.alfred.tunnelblick.bundle](http://www.alfredforum.com/topic/2122-tunnelblick-openvpn-workflow/)
 * com.farrell.encode-decode.alfredworkflow
 * com.kapeli.dash.workflow
 * com.workflowsearcher.hzlzh
