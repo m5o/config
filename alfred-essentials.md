@@ -11,12 +11,12 @@
 * [Caffeine](http://www.alfredforum.com/topic/1631-caffeine-and-caffeinate-workflows-updated/)
 * [carlosnz.timezones](http://www.packal.org/workflow/timezones)
 * [com.alfred.tunnelblick.bundle](http://www.alfredforum.com/topic/2122-tunnelblick-openvpn-workflow/)
-* [hzlzh/Alfred-Workflows](https://github.com/hzlzh/Alfred-Workflows)
 * [Dash.alfredworkflow](https://github.com/Kapeli/Dash-Alfred-Workflow)
 * de.gh01.alfred.github
 * de.leenno.terminalfinder
 * dk.simonbs.Alfred.YouTube
 * [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow)
+* [hzlzh/Alfred-Workflows](https://github.com/hzlzh/Alfred-Workflows)
 * it.gvoc.yawtop
 * jdfwarrior.getip
 * me.zhaowu.google
