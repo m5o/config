@@ -12,7 +12,7 @@
 * [carlosnz.timezones](http://www.packal.org/workflow/timezones)
 * [com.alfred.tunnelblick.bundle](http://www.alfredforum.com/topic/2122-tunnelblick-openvpn-workflow/)
 * [Dash.alfredworkflow](https://github.com/Kapeli/Dash-Alfred-Workflow)
-* de.gh01.alfred.github
+* [GitHub Workflow](https://github.com/gharlan/alfred-github-workflow)
 * de.leenno.terminalfinder
 * dk.simonbs.Alfred.YouTube
 * [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow)
