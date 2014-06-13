@@ -16,7 +16,7 @@
 * dk.simonbs.Alfred.YouTube
 * [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow)
 * [hzlzh/Alfred-Workflows](https://github.com/hzlzh/Alfred-Workflows)
-* it.gvoc.yawtop
+* [it.gvoc.yawtop](http://www.alfredforum.com/topic/1403-yet-another-wi-fi-workflowin-perl/)
 * jdfwarrior.getip
 * me.zhaowu.google
 * me.zhaowu.top
