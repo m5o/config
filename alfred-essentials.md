@@ -13,7 +13,7 @@
 * [com.alfred.tunnelblick.bundle](http://www.alfredforum.com/topic/2122-tunnelblick-openvpn-workflow/)
 * [Dash.alfredworkflow](https://github.com/Kapeli/Dash-Alfred-Workflow)
 * [GitHub Workflow](https://github.com/gharlan/alfred-github-workflow)
-* de.leenno.terminalfinder
+* [terminalfinder](https://github.com/LeEnno/alfred-terminalfinder)
 * dk.simonbs.Alfred.YouTube
 * [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow)
 * [hzlzh/Alfred-Workflows](https://github.com/hzlzh/Alfred-Workflows)
