@@ -47,6 +47,7 @@
 * [ngrok](https://ngrok.com)
 * [node-webkit](https://github.com/rogerwang/node-webkit)
 * [Paparazzi](http://derailer.org/paparazzi/)
+* [Pixel Fireplace](http://hexraystudios.com/pixel-fireplace/)
 * [Pixelmator](http://www.pixelmator.com/)
 * [Popcorn-App](http://get-popcorn.com/)
 * [rvm](https://rvm.io/)
