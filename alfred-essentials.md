@@ -15,6 +15,7 @@
 * [GitHub Workflow](https://github.com/gharlan/alfred-github-workflow)
 * dk.simonbs.Alfred.YouTube
 * [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow)
+* [Extension Updater](http://jdfwarrior.tumblr.com/updater)
 * [hzlzh/Alfred-Workflows](https://github.com/hzlzh/Alfred-Workflows)
 * [it.gvoc.yawtop](http://www.alfredforum.com/topic/1403-yet-another-wi-fi-workflowin-perl/)
 * jdfwarrior.getip
