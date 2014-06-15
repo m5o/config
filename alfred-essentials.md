@@ -18,7 +18,7 @@
 * [Extension Updater](http://jdfwarrior.tumblr.com/updater)
 * [hzlzh/Alfred-Workflows](https://github.com/hzlzh/Alfred-Workflows)
 * [it.gvoc.yawtop](http://www.alfredforum.com/topic/1403-yet-another-wi-fi-workflowin-perl/)
-* jdfwarrior.getip
+* [IP Address](https://github.com/zenorocha/alfred-workflows#ip-address-12--download)
 * me.zhaowu.google
 * me.zhaowu.top
 * menusearch.neorej.com
