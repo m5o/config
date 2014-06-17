@@ -19,7 +19,7 @@
 * [IP Address](https://github.com/zenorocha/alfred-workflows#ip-address-12--download)
 * [me.zhaowu.google](http://zhaocai.github.io/alfred2-google-workflow/)
 * [me.zhaowu.top](http://zhaocai.github.io/alfred2-top-workflow/)
-* menusearch.neorej.com
+* [menusearch.neorej.com](https://github.com/ctwise/alfred-workflows#menu-bar-search)
 * net.1000ch.emoji
 * [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow)
 * net.eplekake.openinchrome
