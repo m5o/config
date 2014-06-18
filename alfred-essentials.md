@@ -23,7 +23,7 @@
 * [net.1000ch.emoji](https://github.com/1000ch/emoji-workflow)
 * [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow)
 * net.eplekake.openinchrome
-* repairlaunchservices.matiaskorhonen.fi
+* [repairlaunchservices.matiaskorhonen.fi](http://randomerrata.com/post/43561014885/alfred-extension-repair-launchservices)
 * stackoverflow.7h2o.com
 * [terminalfinder](https://github.com/LeEnno/alfred-terminalfinder)
 * [Tunnelblick](http://www.alfredforum.com/topic/2122-tunnelblick-openvpn-workflow/)
