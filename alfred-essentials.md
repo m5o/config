@@ -20,7 +20,7 @@
 * [me.zhaowu.google](http://zhaocai.github.io/alfred2-google-workflow/)
 * [me.zhaowu.top](http://zhaocai.github.io/alfred2-top-workflow/)
 * [menusearch.neorej.com](https://github.com/ctwise/alfred-workflows#menu-bar-search)
-* net.1000ch.emoji
+* [net.1000ch.emoji](https://github.com/1000ch/emoji-workflow)
 * [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow)
 * net.eplekake.openinchrome
 * repairlaunchservices.matiaskorhonen.fi
