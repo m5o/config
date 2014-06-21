@@ -24,7 +24,7 @@
 * [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow)
 * net.eplekake.openinchrome
 * [repairlaunchservices.matiaskorhonen.fi](http://randomerrata.com/post/43561014885/alfred-extension-repair-launchservices)
-* stackoverflow.7h2o.com
+* [stackoverflow.7h2o.com](http://www.alfredforum.com/topic/1524-stackoverflow-workflow/)
 * [terminalfinder](https://github.com/LeEnno/alfred-terminalfinder)
 * [Tunnelblick](http://www.alfredforum.com/topic/2122-tunnelblick-openvpn-workflow/)
 * [tylereich.colors](http://www.alfredforum.com/topic/805-colors—convert-color-formats-access-the-os-x-color-panel/)
