@@ -23,7 +23,7 @@
 * [menusearch.neorej.com](https://github.com/ctwise/alfred-workflows#menu-bar-search)
 * [net.1000ch.emoji](https://github.com/1000ch/emoji-workflow)
 * [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow)
-* net.eplekake.openinchrome
+* [net.eplekake.openinchrome](http://www.alfredforum.com/topic/1875-open-current-safari-tab-in-chrome-improved/)
 * [repairlaunchservices.matiaskorhonen.fi](http://randomerrata.com/post/43561014885/alfred-extension-repair-launchservices)
 * [stackoverflow.7h2o.com](http://www.alfredforum.com/topic/1524-stackoverflow-workflow/)
 * [terminalfinder](https://github.com/LeEnno/alfred-terminalfinder)
