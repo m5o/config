@@ -42,7 +42,7 @@
 * [Mactracker](http://mactracker.ca/)
 * [MacVim](https://code.google.com/p/macvim/)
 * [Moom](http://manytricks.com/moom/)
-* [Mou](http://mouapp.com)
+* [Mou](http://mouapp.com) / [MacDown](http://macdown.uranusjr.com)
 * [NFOViewer](http://blockart.sourceforge.net/)
 * [ngrok](https://ngrok.com)
 * [node-webkit](https://github.com/rogerwang/node-webkit)
