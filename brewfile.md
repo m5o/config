@@ -7,6 +7,6 @@
 * lynx
 * node
 * rmtrash
-* pwgen
-* wget
-* youtube-dl
+* [pwgen](http://braumeister.org/formula/pwgen)
+* [wget](http://braumeister.org/formula/wget)
+* [youtube-dl](http://braumeister.org/formula/youtube-dl)
