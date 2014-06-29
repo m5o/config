@@ -4,7 +4,7 @@
 * cowsay
 * htop
 * links
-* lynx
+* [lynx](http://braumeister.org/formula/lynx)
 * [node](http://braumeister.org/formula/node)
 * [rmtrash](http://braumeister.org/formula/rmtrash)
 * [pwgen](http://braumeister.org/formula/pwgen)
