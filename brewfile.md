@@ -2,7 +2,7 @@
 
 * bash-completion
 * cowsay
-* htop
+* [htop](http://braumeister.org/formula/htop)
 * [links](http://braumeister.org/formula/links)
 * [lynx](http://braumeister.org/formula/lynx)
 * [node](http://braumeister.org/formula/node)
