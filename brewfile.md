@@ -1,6 +1,6 @@
 # homebrew essentials
 
-* bash-completion
+* [bash-completion](http://braumeister.org/formula/bash-completion)
 * [cowsay](http://braumeister.org/formula/cowsay)
 * [htop](http://braumeister.org/formula/htop)
 * [links](http://braumeister.org/formula/links)
