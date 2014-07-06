@@ -1,3 +1,5 @@
+# rubygems essentials
+
 * [juicer](http://rubygems.org/gems/juicer)
 * [knod](http://rubygems.org/gems/knod)
 * [lolcat](http://rubygems.org/gems/lolcat)
