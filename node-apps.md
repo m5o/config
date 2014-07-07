@@ -6,6 +6,7 @@
 * npm install --global colorguard
 * npm install --global gitbook
 * npm install --global grunt-cli
+* npm install --global gulp
 * npm install --global imacss
 * npm install --global imageoptim-cli
 * npm install --global localtunnel
