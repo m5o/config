@@ -6,3 +6,4 @@
 * [rails](http://rubygems.org/gems/rails)
 * [rench](http://rubygems.org/gems/rench)
 * [smusher](http://rubygems.org/gems/smusher)
+* [scss-lint](http://rubygems.org/gems/scss-lint)
