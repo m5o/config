@@ -3,6 +3,7 @@
     -g or --global install pkg 
     into /usr/local/lib/node_modules/
 
+* npm install --global colorguard
 * npm install --global gitbook
 * npm install --global grunt-cli
 * npm install --global imacss
