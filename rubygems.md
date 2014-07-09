@@ -1,6 +1,6 @@
 # rubygems essentials
 
-    gem install <GEM>
+    gem install GEM
 
 * [juicer](http://rubygems.org/gems/juicer)
 * [knod](http://rubygems.org/gems/knod)
