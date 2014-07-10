@@ -4,6 +4,7 @@
     into /usr/local/lib/node_modules/
 
 * npm install --global colorguard
+* npm install --global csscomb
 * npm install --global gitbook
 * npm install --global grunt-cli
 * npm install --global gulp
