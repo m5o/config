@@ -11,5 +11,6 @@
 * [most](http://braumeister.org/formula/most)
 * [pwgen](http://braumeister.org/formula/pwgen)
 * [rmtrash](http://braumeister.org/formula/rmtrash)
+* [tree](http://braumeister.org/formula/tree)
 * [wget](http://braumeister.org/formula/wget)
 * [youtube-dl](http://braumeister.org/formula/youtube-dl)
