@@ -1,4 +1,4 @@
-# Grunt.js
+# Node JS
 
     -g or --global install pkg 
     into /usr/local/lib/node_modules/
