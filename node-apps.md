@@ -3,7 +3,7 @@
     -g or --global install pkg 
     into /usr/local/lib/node_modules/
 
-* npm install --global colorguard
+* npm install --global [colorguard](https://www.npmjs.org/package/colorguard)
 * npm install --global csscomb
 * npm install --global gitbook
 * npm install --global grunt-cli
