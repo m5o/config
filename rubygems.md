@@ -9,3 +9,4 @@
 * [rench](http://rubygems.org/gems/rench)
 * [smusher](http://rubygems.org/gems/smusher)
 * [scss-lint](http://rubygems.org/gems/scss-lint)
+* [termit](http://rubygems.org/gems/termit)
