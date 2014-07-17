@@ -6,7 +6,7 @@
 * npm install --global [colorguard](https://www.npmjs.org/package/colorguard)
 * npm install --global [csscomb](https://www.npmjs.org/package/csscomb)
 * npm install --global [gitbook](https://www.npmjs.org/package/gitbook)
-* npm install --global grunt-cli
+* npm install --global [grunt-cli](https://www.npmjs.org/package/grunt-cli)
 * npm install --global gulp
 * npm install --global imacss
 * npm install --global imageoptim-cli
