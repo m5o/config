@@ -4,6 +4,7 @@
 
 * [bash-completion](http://braumeister.org/formula/bash-completion)
 * [cowsay](http://braumeister.org/formula/cowsay)
+* dos2unix
 * [htop](http://braumeister.org/formula/htop)
 * [links](http://braumeister.org/formula/links)
 * [lynx](http://braumeister.org/formula/lynx)
