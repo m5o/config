@@ -8,7 +8,7 @@
 * npm install --global [gitbook](https://www.npmjs.org/package/gitbook)
 * npm install --global [grunt-cli](https://www.npmjs.org/package/grunt-cli)
 * npm install --global [gulp](https://www.npmjs.org/package/gulp)
-* npm install --global imacss
+* npm install --global [imacss](https://www.npmjs.org/package/imacss)
 * npm install --global imageoptim-cli
 * npm install --global localtunnel
 * npm install --global pageres
