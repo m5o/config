@@ -11,7 +11,7 @@
 * npm install --global [imacss](https://www.npmjs.org/package/imacss)
 * npm install --global [imageoptim-cli](https://www.npmjs.org/package/imageoptim-cli)
 * npm install --global [localtunnel](https://www.npmjs.org/package/localtunnel)
-* npm install --global pageres
+* npm install --global [pageres]
 * npm install --global peerflix
 * npm install --global torrent-mount
 * npm install grunt-imageoptim --save-dev
