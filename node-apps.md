@@ -12,8 +12,8 @@
 * npm install --global [imageoptim-cli](https://www.npmjs.org/package/imageoptim-cli)
 * npm install --global [localtunnel](https://www.npmjs.org/package/localtunnel)
 * npm install --global [pageres](https://www.npmjs.org/package/pageres)
-* npm install --global [peerflix]
-* npm install --global [torrent-mount]
+* npm install --global [peerflix](https://www.npmjs.org/package/peerflix)
+* npm install --global [torrent-mount]()
 * npm install grunt-imageoptim --save-dev
 * npm install grunt-markdown-pdf --save-dev
 * npm install grunt-smartrev --save-dev
