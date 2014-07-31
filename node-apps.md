@@ -15,7 +15,7 @@
 * npm install --global [peerflix](https://www.npmjs.org/package/peerflix)
 * npm install --global [torrent-mount](https://www.npmjs.org/package/torrent-mount)
 * npm install --save-dev [grunt-imageoptim](https://www.npmjs.org/package/grunt-imageoptim)
-* npm install --save-dev [grunt-markdown-pdf]()
+* npm install --save-dev [grunt-markdown-pdf](https://www.npmjs.org/package/grunt-markdown-pdf)
 * npm install --save-dev grunt-smartrev
 * npm install --save-dev grunt-svgstore
 * npm install --save-dev grunt-uncss
