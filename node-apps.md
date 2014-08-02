@@ -16,7 +16,7 @@
 * npm install --global [torrent-mount](https://www.npmjs.org/package/torrent-mount)
 * npm install --save-dev [grunt-imageoptim](https://www.npmjs.org/package/grunt-imageoptim)
 * npm install --save-dev [grunt-markdown-pdf](https://www.npmjs.org/package/grunt-markdown-pdf)
-* npm install --save-dev [grunt-smartrev]()
+* npm install --save-dev [grunt-smartrev](https://www.npmjs.org/package/grunt-smartrev)
 * npm install --save-dev grunt-svgstore
 * npm install --save-dev grunt-uncss
 * npm install --save-dev sassdown
