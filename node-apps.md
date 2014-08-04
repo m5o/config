@@ -18,5 +18,5 @@
 * npm install --save-dev [grunt-markdown-pdf](https://www.npmjs.org/package/grunt-markdown-pdf)
 * npm install --save-dev [grunt-smartrev](https://www.npmjs.org/package/grunt-smartrev)
 * npm install --save-dev [grunt-svgstore](https://www.npmjs.org/package/grunt-svgstore)
-* npm install --save-dev grunt-uncss
+* npm install --save-dev [grunt-uncss]()
 * npm install --save-dev sassdown
