@@ -13,6 +13,7 @@
 * [Caffeine](http://lightheadsw.com/caffeine/)
 * [coconutBattery](http://www.coconut-flavour.com)
 * [Colors](http://mattpatenaude.com)
+* [Colors PRO](http://myownapp.com/downloads/ColorsPRO.zip)
 * [Dash](http://kapeli.com/dash)
 * [Delivery Status](http://junecloud.com/software/mac/)
 * [Developer Color Picker](http://download.panic.com/picker/)
