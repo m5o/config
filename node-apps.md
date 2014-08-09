@@ -19,4 +19,4 @@
 * npm install --save-dev [grunt-smartrev](https://www.npmjs.org/package/grunt-smartrev)
 * npm install --save-dev [grunt-svgstore](https://www.npmjs.org/package/grunt-svgstore)
 * npm install --save-dev [grunt-uncss](https://www.npmjs.org/package/grunt-uncss)
-* npm install --save-dev [sassdown]()
+* npm install --save-dev [sassdown](https://www.npmjs.org/package/sassdown)
