@@ -1,6 +1,6 @@
 # Node JS
 
-    -g or --global install pkg 
+    -g or --global install pkg
     into /usr/local/lib/node_modules/
 
 * npm install --global [colorguard](https://www.npmjs.org/package/colorguard)
