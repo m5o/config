@@ -1,5 +1,7 @@
 # Node JS
 
+    npm install --global PACKAGE
+    npm install --save-dev PACKAGE
     -g or --global install pkg
     into /usr/local/lib/node_modules/
 
