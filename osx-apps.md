@@ -78,7 +78,7 @@
 ## Dictionary
 
 * [http://lipflip.org/articles/dictcc-dictionary-plugin-deutsche-beschreibung]()
-* http://mac.tekl.de/deutsch/Blog/Blog.html
+* [http://mac.tekl.de/deutsch/Blog/Blog.html]()
 * http://priithaamer.com/blog/rails4-and-ruby2-dictionaries
 * https://github.com/priithaamer/rubydictionary
 
