@@ -83,6 +83,11 @@
 * [https://github.com/priithaamer/rubydictionary]()
 
 
+## TextMate
+
+Variables: `invisiblesMap` `~ \t‣`
+
+
 ## Quicklook Plugins
 
 * [Animated GIF QuickLook plugin](http://animgifqlgen.sourceforge.net)
