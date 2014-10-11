@@ -12,6 +12,7 @@
 * [node](http://braumeister.org/formula/node)
 * [most](http://braumeister.org/formula/most)
 * [pwgen](http://braumeister.org/formula/pwgen)
+* QPDF
 * [rmtrash](http://braumeister.org/formula/rmtrash)
 * [tree](http://braumeister.org/formula/tree)
 * [wget](http://braumeister.org/formula/wget)
