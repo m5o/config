@@ -9,5 +9,6 @@
 * [rails](http://rubygems.org/gems/rails)
 * [rench](http://rubygems.org/gems/rench)
 * [scss-lint](http://rubygems.org/gems/scss-lint)
+* [ultrahook](http://rubygems.org/gems/ultrahook)
 * [smusher](http://rubygems.org/gems/smusher)
 * [termit](http://rubygems.org/gems/termit)
