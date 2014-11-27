@@ -2,6 +2,7 @@
 
     gem install GEM
 
+* [git-up](http://aanandprasad.com/git-up/)
 * [harpoon](http://www.getharpoon.com/)
 * [juicer](http://rubygems.org/gems/juicer)
 * [knod](http://rubygems.org/gems/knod)
