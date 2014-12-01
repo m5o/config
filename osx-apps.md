@@ -12,6 +12,7 @@
 * [Bluetooth Switch](http://junecloud.com/software/mac/)
 * [Caffeine](http://lightheadsw.com/caffeine/)
 * [coconutBattery](http://www.coconut-flavour.com)
+* [Couleur](http://couleursapp.com/)
 * [Colors](http://mattpatenaude.com)
 * [Colors PRO](http://myownapp.com/downloads/ColorsPRO.zip)
 * [Dash](http://kapeli.com/dash)
