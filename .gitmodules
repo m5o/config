@@ -1,6 +1,0 @@
-[submodule "dot/vim/bundle/commentary"]
-	path = dot/vim/bundle/commentary
-	url = https://github.com/tpope/vim-commentary
-[submodule "dot/vim/bundle/rails"]
-	path = dot/vim/bundle/rails
-	url = https://github.com/tpope/vim-rails
