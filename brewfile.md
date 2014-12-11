@@ -10,6 +10,7 @@
 * [links](http://braumeister.org/formula/links)
 * [lynx](http://braumeister.org/formula/lynx)
 * [node](http://braumeister.org/formula/node)
+* macvim `--override-system-vim`
 * [most](http://braumeister.org/formula/most)
 * [pwgen](http://braumeister.org/formula/pwgen)
 * QPDF
