@@ -9,9 +9,9 @@
 * [htop](http://braumeister.org/formula/htop)
 * [links](http://braumeister.org/formula/links)
 * [lynx](http://braumeister.org/formula/lynx)
-* [node](http://braumeister.org/formula/node)
 * macvim `--override-system-vim`
 * [most](http://braumeister.org/formula/most)
+* [node](http://braumeister.org/formula/node)
 * [pwgen](http://braumeister.org/formula/pwgen)
 * QPDF
 * [rmtrash](http://braumeister.org/formula/rmtrash)
