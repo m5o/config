@@ -18,3 +18,45 @@ Plugin 'flazz/vim-colorschemes'
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
+
+
+" -----------------------------------------------------------------------------
+" customize vim basics
+" -----------------------------------------------------------------------------
+
+" colors
+set background=dark
+syntax on
+colorscheme ir_black
+
+" cursor highlight
+set cursorline
+
+" mappings
+imap jj <Esc>
+imap hh =>
+imap aa @
+
+" searching
+set hlsearch                 " highlight search
+set incsearch                " incremental search, search as you type
+set ignorecase               " ignore case when searching 
+set smartcase                " ignore case when searching lowercase
+
+
+" -----------------------------------------------------------------------------
+" customize plugins
+" -----------------------------------------------------------------------------
+
+
+
+" -----------------------------------------------------------------------------
+" host specific
+" -----------------------------------------------------------------------------
+if filereadable(expand("~/.vimrc.local"))
+  source ~/.vimrc.local
+endif
+
+" if hostname() == "my-special-host"
+"   do something
+" endif
