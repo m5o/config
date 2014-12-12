@@ -17,6 +17,8 @@ Plugin 'terryma/vim-multiple-cursors'
 Plugin 'garbas/vim-snipmate'
 Plugin 'ervandew/supertab'
 Plugin 'scrooloose/syntastic'
+Plugin 'scrooloose/nerdcommenter'
+Plugin 'scrooloose/nerdtree'
 
 " Color schemes
 Plugin 'flazz/vim-colorschemes'
