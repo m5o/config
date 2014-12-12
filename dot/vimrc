@@ -19,6 +19,7 @@ Plugin 'ervandew/supertab'
 Plugin 'scrooloose/syntastic'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'scrooloose/nerdtree'
+Plugin 'kien/ctrlp.vim'
 
 " Color schemes
 Plugin 'flazz/vim-colorschemes'
