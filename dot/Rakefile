@@ -22,6 +22,8 @@ task :dotfiles do
     link = File.expand_path("~/.#{dotfile}")
     unless File.exists?(link)
       run %Q{ln -s "#{here(dotfile)}" "#{link}"}
+    else
+      puts "-----> file '#{link}' exists, couldn't create symlink. Check and merge manually"
     end
   end
 end
