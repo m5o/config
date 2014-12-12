@@ -11,6 +11,7 @@ Plugin 'gmarik/Vundle.vim'
 " My Plugins
 Plugin 'tpope/vim-commentary'
 Plugin 'tpope/vim-rails'
+Plugin 'bronson/vim-trailing-whitespace'
 
 " Color schemes
 Plugin 'flazz/vim-colorschemes'
