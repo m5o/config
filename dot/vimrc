@@ -14,6 +14,7 @@ Plugin 'tpope/vim-rails'
 Plugin 'skalnik/vim-vroom'
 Plugin 'bronson/vim-trailing-whitespace'
 Plugin 'terryma/vim-multiple-cursors'
+Plugin 'garbas/vim-snipmate'
 
 " Color schemes
 Plugin 'flazz/vim-colorschemes'
