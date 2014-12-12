@@ -20,6 +20,7 @@ Plugin 'scrooloose/syntastic'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'scrooloose/nerdtree'
 Plugin 'kien/ctrlp.vim'
+Plugin 'bling/vim-airline'
 
 " Color schemes
 Plugin 'flazz/vim-colorschemes'
