@@ -16,6 +16,7 @@ Plugin 'bronson/vim-trailing-whitespace'
 Plugin 'terryma/vim-multiple-cursors'
 Plugin 'garbas/vim-snipmate'
 Plugin 'ervandew/supertab'
+Plugin 'scrooloose/syntastic'
 
 " Color schemes
 Plugin 'flazz/vim-colorschemes'
