@@ -52,6 +52,9 @@ colorscheme ir_black
 " cursor highlight
 set cursorline
 
+" misc
+set number
+
 " mappings
 imap jj <Esc>
 imap hh =>
