@@ -27,6 +27,7 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'scrooloose/nerdtree'
 Plugin 'chrisbra/NrrwRgn'
 Plugin 'kien/ctrlp.vim'
+Plugin 'vim-scripts/ZoomWin'
 Plugin 'bling/vim-airline'
 
 " Color schemes
