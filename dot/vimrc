@@ -24,6 +24,7 @@ Plugin 'Lokaltog/vim-easymotion'
 Plugin 'scrooloose/syntastic'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'scrooloose/nerdtree'
+Plugin 'chrisbra/NrrwRgn'
 Plugin 'kien/ctrlp.vim'
 Plugin 'bling/vim-airline'
 
