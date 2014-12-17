@@ -28,9 +28,9 @@
   pager = most
   # editor = mvim -f
 
-# [push]
+[push]
+  default = simple
 #   autosetuprebase = always
-#   default = tracking
 
 [merge]
   tool = opendiff
