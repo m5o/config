@@ -28,9 +28,11 @@
   pager = most
   # editor = mvim -f
 
+[branch]
+  autosetuprebase = always
+
 [push]
   default = simple
-#   autosetuprebase = always
 
 [merge]
   tool = opendiff
