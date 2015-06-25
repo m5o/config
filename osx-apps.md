@@ -54,6 +54,7 @@
 * [Pixel Fireplace](http://hexraystudios.com/pixel-fireplace/)
 * [Pixelmator](http://www.pixelmator.com/)
 * [Popcorn-App](http://get-popcorn.com/)
+* [qnd](http://qndapp.com)
 * [rvm](https://rvm.io/)
 * [Sequel Pro](http://www.sequelpro.com/)
 * [ShrinkIt](http://www.panic.com/blog/shrinkit-1-0/)
