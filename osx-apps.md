@@ -8,6 +8,7 @@
 * [Alfred](http://www.alfredapp.com/)
 * [Atom](https://atom.io)
 * [Balsamiq Mockups](http://balsamiq.com/download/)
+* [BitBar](https://github.com/stretchr/bitbar)
 * [Blackmagic Disk Speed Test](http://www.blackmagicdesign.com/products/intensity/software)
 * [Bluetooth Switch](http://junecloud.com/software/mac/)
 * [Caffeine](http://lightheadsw.com/caffeine/)
