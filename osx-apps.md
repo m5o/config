@@ -5,6 +5,8 @@
 * [1Password](https://agilebits.com/onepassword/mac)
 * [Acorn](http://www.flyingmeat.com/acorn/)
 * [Adium](https://adium.im/)
+* [Affinity Designer](https://affinity.serif.com/en-us/designer/)
+* [Affinity Photo](https://affinity.serif.com/en-us/photo/)
 * [Alfred](http://www.alfredapp.com/)
 * [Atom](https://atom.io)
 * [Balsamiq Mockups](http://balsamiq.com/download/)
