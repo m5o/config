@@ -5,6 +5,7 @@
     -g or --global install pkg
     into /usr/local/lib/node_modules/
 
+* npm install --global [caniuse-cmd](https://www.npmjs.org/package/caniuse-cmd)
 * npm install --global [colorguard](https://www.npmjs.org/package/colorguard)
 * npm install --global [csscomb](https://www.npmjs.org/package/csscomb)
 * npm install --global [gitbook](https://www.npmjs.org/package/gitbook)
