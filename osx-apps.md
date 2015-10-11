@@ -8,6 +8,7 @@
 * [Affinity Designer](https://affinity.serif.com/en-us/designer/)
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/)
 * [Alfred](http://www.alfredapp.com/)
+* [Arq](http://www.haystacksoftware.com/arq/)
 * [Atom](https://atom.io)
 * [Balsamiq Mockups](http://balsamiq.com/download/)
 * [BitBar](https://github.com/stretchr/bitbar)
