@@ -60,6 +60,7 @@
 * [Pixel Fireplace](http://hexraystudios.com/pixel-fireplace/)
 * [Pixelmator](http://www.pixelmator.com/)
 * [Popcorn-App](http://get-popcorn.com/)
+* [Postman](https://www.getpostman.com)
 * [qnd](http://qndapp.com)
 * [rvm](https://rvm.io/)
 * [Sequel Pro](http://www.sequelpro.com/)
