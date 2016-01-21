@@ -14,6 +14,7 @@
 * npm install --global [imacss](https://www.npmjs.org/package/imacss)
 * npm install --global [imageoptim-cli](https://www.npmjs.org/package/imageoptim-cli)
 * npm install --global [localtunnel](https://www.npmjs.org/package/localtunnel)
+* npm install --global [nativefier](https://www.npmjs.org/package/nativefier)
 * npm install --global [pageres](https://www.npmjs.org/package/pageres)
 * npm install --global [peerflix](https://www.npmjs.org/package/peerflix)
 * npm install --global [torrent-mount](https://www.npmjs.org/package/torrent-mount)
