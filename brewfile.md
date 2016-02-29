@@ -16,6 +16,7 @@
 * [pwgen](http://braumeister.org/formula/pwgen)
 * QPDF
 * [rmtrash](http://braumeister.org/formula/rmtrash)
+* [services](https://github.com/Homebrew/homebrew-services)
 * [tree](http://braumeister.org/formula/tree)
 * [wget](http://braumeister.org/formula/wget)
 * [youtube-dl](http://braumeister.org/formula/youtube-dl)
