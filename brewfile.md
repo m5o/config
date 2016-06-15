@@ -17,6 +17,7 @@
 * QPDF
 * [rmtrash](http://braumeister.org/formula/rmtrash)
 * [services](https://github.com/Homebrew/homebrew-services)
+* [tig](http://braumeister.org/formula/tig)
 * [tree](http://braumeister.org/formula/tree)
 * [wget](http://braumeister.org/formula/wget)
 * [youtube-dl](http://braumeister.org/formula/youtube-dl)
