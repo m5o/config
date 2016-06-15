@@ -25,6 +25,7 @@
 * [Firefox](http://getfirefox.com)
 * [Firewall Switch](http://junecloud.com/software/mac/)
 * [GIF Brewery](http://www.helloresolven.com/betas/gifbrewery/)
+* [Giphy Capture](http://giphy.com/apps#giphycapture)
 * [GitHub](https://mac.github.com)
 * [GitUp](http://gitup.co)
 * [GitX (L)](http://gitx.laullon.com/) / [GitX-dev](http://rowanj.github.io/gitx/) / [GitX](http://gitx.frim.nl/)
