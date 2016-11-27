@@ -10,6 +10,7 @@
 * [htop](http://braumeister.org/formula/htop)
 * [links](http://braumeister.org/formula/links)
 * [lynx](http://braumeister.org/formula/lynx)
+* [m-cli](http://braumeister.org/formula/m-cli)
 * macvim `--override-system-vim`
 * [most](http://braumeister.org/formula/most)
 * [node](http://braumeister.org/formula/node)
