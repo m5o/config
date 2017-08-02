@@ -4,6 +4,7 @@
 * [0xED](http://www.suavetech.com/0xed/0xed.html)
 * [1Password](https://agilebits.com/onepassword/mac)
 * [Acorn](http://www.flyingmeat.com/acorn/)
+* [Adapter](https://macroplant.com/adapter)
 * [Adium](https://adium.im/)
 * [Affinity Designer](https://affinity.serif.com/en-us/designer/)
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/)
