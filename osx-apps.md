@@ -25,6 +25,7 @@
 * [Developer Color Picker](http://download.panic.com/picker/)
 * [Firefox](http://getfirefox.com)
 * [Firewall Switch](http://junecloud.com/software/mac/)
+* [Geometrize](https://github.com/Tw1ddle/geometrize)
 * [GIF Brewery](http://www.helloresolven.com/betas/gifbrewery/)
 * [Giphy Capture](http://giphy.com/apps#giphycapture)
 * [GitHub](https://mac.github.com)
