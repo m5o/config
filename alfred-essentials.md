@@ -4,6 +4,9 @@
 
 * with [Workflow-Searcher.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Workflow-Searcher.alfredworkflow)
 
+## Theme
+
+* [Snazzy](https://www.alfredapp.com/extras/theme/yZODAdxN8T/)
 
 ## Workflow Archive at [AlfredWorkflow.com](http://www.alfredworkflow.com)
 
