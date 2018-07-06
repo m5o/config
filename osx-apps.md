@@ -15,7 +15,7 @@
 * [BitBar](https://github.com/stretchr/bitbar)
 * [Blackmagic Disk Speed Test](http://www.blackmagicdesign.com/products/intensity/software)
 * [Bluetooth Switch](http://junecloud.com/software/mac/)
-* [Caffeine](http://lightheadsw.com/caffeine/)
+* [Caffeine](http://lightheadsw.com/caffeine/) / [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 * [coconutBattery](http://www.coconut-flavour.com)
 * [Couleur](http://couleursapp.com/)
 * [Colors](http://mattpatenaude.com)
