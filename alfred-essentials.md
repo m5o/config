@@ -16,6 +16,7 @@
 * [carlosnz.timezones](http://www.packal.org/workflow/timezones)
 * [colors](http://www.alfredforum.com/topic/805-colors—convert-color-formats-access-the-os-x-color-panel/)
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow)
+* [DeepL](https://github.com/AlexanderWillner/deepl-alfred-workflow2)
 * [emoji](https://github.com/1000ch/emoji-workflow)
 * [emoji](https://github.com/carlosgaldino/alfred-emoji-workflow)
 * [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow)
