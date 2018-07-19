@@ -75,6 +75,7 @@
 * [Skitch](http://evernote.com/skitch/) or [Monosnap](http://monosnap.com/)
 * [Stainless](http://www.stainlessapp.com/)
 * [Sublime Text](http://www.sublimetext.com)
+* [SuperDuper](https://www.shirt-pocket.com/SuperDuper/)
 * [svgo](https://github.com/svg/svgo)
 * [TextMate](http://macromates.com)
 * [Tower](http://www.git-tower.com/)
