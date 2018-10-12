@@ -7,11 +7,12 @@
 * [cowsay](http://braumeister.org/formula/cowsay)
 * [dos2unix](http://braumeister.org/formula/dos2unix)
 * [figlet](http://braumeister.org/formula/figlet)
-* [httpie](http://braumeister.org/formula/httpie)
 * [htop](http://braumeister.org/formula/htop)
+* [httpie](http://braumeister.org/formula/httpie)
 * [links](http://braumeister.org/formula/links)
 * [lynx](http://braumeister.org/formula/lynx)
 * [m-cli](http://braumeister.org/formula/m-cli)
+* [mailcatcher](https://github.com/sj26/homebrew-mailcatcher)
 * macvim `--override-system-vim`
 * [most](http://braumeister.org/formula/most)
 * [node](http://braumeister.org/formula/node)
