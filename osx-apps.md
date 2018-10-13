@@ -79,6 +79,7 @@
 * [SuperDuper](https://www.shirt-pocket.com/SuperDuper/)
 * [svgo](https://github.com/svg/svgo)
 * [TextMate](http://macromates.com)
+* [ToothFairy](https://c-command.com/toothfairy/)
 * [Tower](http://www.git-tower.com/)
 * [Transmission](http://www.transmissionbt.com/)
 * [Transmit](http://panic.com)
