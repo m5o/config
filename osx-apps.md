@@ -85,6 +85,7 @@
 * [Transmit](http://panic.com)
 * [TunnelBear](https://www.tunnelbear.com/)
 * [Validator S.A.C](http://habilis.net/validator-sac/)
+* [Viscosity](https://www.sparklabs.com/viscosity/)
 * [VLC](http://www.videolan.org/)
 * [WebKit](http://webkit.org)
 * [Wireshark](https://www.wireshark.org/download.html)
