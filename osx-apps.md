@@ -84,7 +84,6 @@
 * [Transmission](http://www.transmissionbt.com/)
 * [Transmit](http://panic.com)
 * [TunnelBear](https://www.tunnelbear.com/)
-* [Tunnelblick](https://code.google.com/p/tunnelblick/)
 * [Validator S.A.C](http://habilis.net/validator-sac/)
 * [VLC](http://www.videolan.org/)
 * [WebKit](http://webkit.org)
