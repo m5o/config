@@ -5,6 +5,7 @@
 * archey
 * [bash-completion](http://braumeister.org/formula/bash-completion)
 * [cowsay](http://braumeister.org/formula/cowsay)
+* [bat](http://braumeister.org/formula/bat)
 * [dos2unix](http://braumeister.org/formula/dos2unix)
 * [figlet](http://braumeister.org/formula/figlet)
 * [htop](http://braumeister.org/formula/htop)
