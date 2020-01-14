@@ -7,6 +7,7 @@
 * [cowsay](http://braumeister.org/formula/cowsay)
 * [bat](http://braumeister.org/formula/bat)
 * [dos2unix](http://braumeister.org/formula/dos2unix)
+* [exa](http://braumeister.org/formula/exa)
 * [figlet](http://braumeister.org/formula/figlet)
 * [htop](http://braumeister.org/formula/htop)
 * [httpie](http://braumeister.org/formula/httpie)
