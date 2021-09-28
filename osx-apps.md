@@ -56,6 +56,7 @@
 * [Moom](http://manytricks.com/moom/)
 * [Mou](http://mouapp.com) / [MacDown](http://macdown.uranusjr.com)
 * [NFOViewer](http://blockart.sourceforge.net/)
+* [Numi](https://numi.app)
 * [ngrok](https://ngrok.com)
 * [node-webkit](https://github.com/rogerwang/node-webkit)
 * [Paparazzi](http://derailer.org/paparazzi/)
